@@ -7,7 +7,7 @@ This is the repository of my life. a work-in-progress, occasionally messy, somet
 ---
 
 ## Current Status
-- **Version:** 17.years.still.updating
+- **Version:** 18.years.still.updating
 - **Language:** Mostly English, some sarcasm
 - **Framework:** Chaos + Curiosity  
 
